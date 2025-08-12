@@ -1,0 +1,32 @@
+.wrap h1 {
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.cc-color-field {
+    width: 120px;
+    padding: 6px 8px;
+    border-radius: 4px;
+    border: 1px solid #ccd0d4;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+    font-size: 14px;
+}
+
+.form-table th {
+    width: 250px;
+    padding: 12px 10px;
+    font-weight: 500;
+    vertical-align: middle;
+}
+
+.form-table td {
+    padding: 12px 10px;
+}
+
+.wp-picker-container {
+    vertical-align: middle;
+}
+
+.submit {
+    margin-top: 20px;
+}
